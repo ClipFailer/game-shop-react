@@ -1,0 +1,17 @@
+.App.light {
+    --contrast-color: #000;
+
+    --font-color: #000000;
+
+    --bg-color: #fff;
+
+    --light-color: #e1dfdf;
+    --dark-color: #a6a5a5;
+
+    --product-desc-bg: #b1acac;
+
+    --categories-color: #d3d1d1;
+
+    --logo-color: #7f00ff;
+    --logo-color-hover: #7f00ff;
+}

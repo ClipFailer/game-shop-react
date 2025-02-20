@@ -1,0 +1,38 @@
+.modal {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 5;
+
+    overflow: scroll;
+    overscroll-behavior: contain;
+    /*max-height: 80vh;*/
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgba(58, 58, 58, 0.73);
+
+    color: var(--font-color);
+}
+
+.modal-content {
+    display: flex;
+    flex-direction: column;
+    
+    max-width: 800px;
+    width: 100%;
+
+    border-radius: 12px;
+
+    padding: 20px;
+    margin: 20px;
+
+    background-color: var(--light-color);
+}
+
+
+

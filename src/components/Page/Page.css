@@ -1,0 +1,17 @@
+.page {
+    display: flex;
+    /*flex-direction: column;*/
+    gap: 20px;
+
+    /*height: 100vh;*/
+
+    background-color: #3a3a3a;
+
+    border-radius: 15px;
+
+    padding: 20px;
+
+    margin-bottom: 10px;
+
+    box-shadow: 0 5px 15px #000;
+}

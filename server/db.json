@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Grand Theft Auto V",
+      "description": "Действие GTA 5 разворачивается в вымышленном городе Лос-Сантосе, игровом аналоге Лос-Анджелеса. Главный герой — грабитель в отставке Майкл Де Санта. Когда-то он был одним из самых известных преступников США, но теперь скучает на пенсии и пытается ужиться с нелюбимой женой и избалованными детьми.",
+      "trailer": "https://www.youtube.com/watch?v=QkkoHAzjnUs",
+      "img": "https://i.playground.ru/p/axyE4V_QXmwLFJUJ05q7uQ.jpeg",
+      "categories": [
+        "action",
+        "open world",
+        "adventure"
+      ],
+      "price": 1299,
+      "isAdded": false
+    },
+    {
+      "id": "2",
+      "title": "RainbowSix: Siege",
+      "description": "Tom Clancy's Rainbow Six Siege (в российской локализации известна как Tom Clancy's Rainbow Six Осада) – тринадцатая часть франшизы Tom Clancy's Rainbow Six (серия игр), разработанная Ubisoft Montreal и опубликованная Ubisoft Entertainment. Cчитается преемницей отменённой Rainbow Six: Patriots. Игра была выпущена по всему миру 1 декабря 2015 года.",
+      "trailer": "https://www.youtube.com/watch?v=6wlvYh0h63k",
+      "img": "https://i.playground.ru/p/b2_CLDeqK4GuZoNYJl8P5Q.jpeg",
+      "categories": [
+        "action",
+        "tactical"
+      ],
+      "price": 999,
+      "isAdded": false
+    },
+    {
+      "id": "3",
+      "title": "Minecraft",
+      "description": "«Майнкрафт» — это приключенческая игра-песочница, у которой нет сюжета и ограничений в пространстве. Ее пользователи создают объекты и даже целые миры из виртуальных 3D-блоков по принципу LEGO. Игрок может построить из кубов что угодно: от маленькой хижины до огромного мегаполиса, задействуя неограниченную территорию. Только в базовой версии игроки могут пройти 30 млн блоков — это в семь раз больше, чем площадь планеты Земля.\n",
+      "trailer": "https://www.youtube.com/watch?v=MmB9b5njVbA",
+      "img": "https://thecity.m24.ru/b/d/SYketSiveog4J_DObLzWDUBNT0wyIDmtiI4EZzYHoV6j88XenTzJGR-lKdEtaxk-AJyC0joo9g=gu0Sqtwxxd9eIoa0DDV4kQ.jpg",
+      "categories": [
+        "open world",
+        "sandbox"
+      ],
+      "price": 569,
+      "isAdded": false
+    },
+    {
+      "id": "4",
+      "title": "Atomic Heart",
+      "description": "Действие Atomic Heart разворачивается в альтернативной вселенной, где СССР стал лидером мировой экономики и технологического развития. Однако на фоне этого происходят странные события: созданные механизмы начинают вести себя неадекватно, а люди исчезают без следа. Виной всему — масштабный сбой системы на советском Предприятии №3826, который привёл к восстанию машин.",
+      "trailer": "https://www.youtube.com/watch?v=0UBiw1xkHl8",
+      "img": "https://i.playground.ru/e/fZs_OlK45zbLeYxaQ7zPDA.png",
+      "categories": [
+        "fps",
+        "rpg"
+      ],
+      "price": 1569,
+      "isAdded": false
+    },
+    {
+      "id": "5",
+      "title": "Red Dead Redemption 2",
+      "description": " после неудавшегося ограбления банда Датча ван дер Линде убегает от законников в горы, где планирует залечь на дно. Однако это не удаётся, из-за чего эта большая бандитская семья вынуждена путешествовать по просторам Америки в поисках денег и нового дома. Главный герой Артур Морган, человек бывалый и смелый, вырос в этой банде, и теперь ему предстоит встать на защиту своих интересов и интересов своей «семьи».",
+      "trailer": "https://www.youtube.com/watch?v=gmA6MrX81z4",
+      "img": "https://cdn1.ozone.ru/s3/multimedia-h/6344515625.jpg",
+      "categories": [
+        "action",
+        "open world",
+        "adventure"
+      ],
+      "price": 1299,
+      "isAdded": false
+    },
+    {
+      "id": "6",
+      "title": "The Witcher 3",
+      "description": "«Ведьмак 3: Дикая Охота» (ориг. The Witcher 3: Wild Hunt) — третья игра одноимённой серии, а также заключительная часть трилогии, разработанная польской компанией CD Projekt RED по мотивам серии романов «Ведьмак» польского писателя Анджея Сапковского, продолжение игр Ведьмак и Ведьмак 2: Убийцы Королей.",
+      "trailer": "https://www.youtube.com/watch?v=A-mCKNTU_mU",
+      "img": "https://i.playground.ru/e/pkQYhG-ZvkIZ_8sl4fP-MQ.jpeg",
+      "categories": [
+        "action",
+        "rpg"
+      ],
+      "price": 1156,
+      "isAdded": false
+    },
+    {
+      "id": "7",
+      "title": "DayZ Standalone",
+      "description": "DayZ — многопользовательская компьютерная игра в жанре симулятора выживания с открытым миром, разработанная чешской компанией Bohemia Interactive. Игра является ремейком одноимённой модификации к Arma 2, созданной геймдизайнером Дином Холлом. Ранняя альфа-версия игры для Windows была выпущена в конце 2013 года в сети цифровой дистрибуции Steam. Релиз игры на платформе Windows состоялся 13 декабря 2018 года[2][3]. Версия для PlayStation 4 вышла 29 мая 2019 года.",
+      "trailer": "https://www.youtube.com/watch?v=mC5F8ECQnFE",
+      "img": "https://avatars.mds.yandex.net/i?id=6c42e2ca7eb16f23b13c8257c4af6f54_l-5243845-images-thumbs&n=13",
+      "categories": [
+        "survival",
+        "simulator"
+      ],
+      "price": 1156,
+      "isAdded": false
+    },
+    {
+      "id": "8",
+      "title": "Detroit: Become Human",
+      "description": "Действие игры происходит в Детройте в недалёком будущем, где существуют серийно выпускаемые андроиды — роботы-слуги, почти неотличимые от людей. Машины должны беспрекословно подчиняться своим хозяевам, но некоторые из них в результате программного сбоя становятся «девиантами» с собственной волей. ",
+      "trailer": "https://www.youtube.com/watch?v=8a-EObAhYrg",
+      "img": "https://cdn1.epicgames.com/columbine/offer/DETROIT_1-2560x1440-4fd6608a56880dc5d8e9d968517113c3.jpg",
+      "categories": [
+        "adventure",
+        "action"
+      ],
+      "price": 789,
+      "isAdded": true
+    }
+  ],
+  "users": [
+    {
+      "id": "7126",
+      "email": "аsa",
+      "password": "assa"
+    }
+  ]
+}

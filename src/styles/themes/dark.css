@@ -1,0 +1,16 @@
+.App.dark {
+    --contrast-color: #fff;
+
+    --font-color: #ffffff;
+
+    --categories-color: #514e4e;
+
+    --bg-color: #272727;
+
+    --product-desc-bg: #322e2e;
+
+    --light-color: #535151;
+    --dark-color: #3a3939;
+
+    --logo-color: orange;
+}

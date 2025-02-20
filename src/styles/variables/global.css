@@ -1,0 +1,6 @@
+@import url('../themes/light.css');
+@import url('../themes/dark.css');
+
+:root {
+    --box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.62);
+}

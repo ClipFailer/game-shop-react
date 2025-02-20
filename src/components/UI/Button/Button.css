@@ -1,0 +1,45 @@
+.btn {
+    z-index: 2;
+
+    min-width: 80px;
+    min-height: 30px;
+
+    padding: 6px;
+
+    border: none;
+    border-radius: 10px;
+
+    color: var(--bg-color);
+    font-size: 16px;
+    font-weight: bold;
+
+    background-color: #46c832;
+    box-shadow: var(--box-shadow);
+
+    cursor: pointer;
+
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    background-color: #58f43c;
+    color: var(--contrast-color);
+}
+
+.btn.added {
+
+    /*max-width: 100px;*/
+    width: 150px;
+
+    background-color: red;
+    color: #fff;
+}
+
+@media (max-width: 560px) {
+
+    .btn {
+        font-size: 25px;
+    }
+
+}
