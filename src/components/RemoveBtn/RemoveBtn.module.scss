@@ -1,0 +1,42 @@
+.removeBtn {
+    //width: 100%;
+    min-width: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 5px 10px;
+
+    text-align: center;
+    font-family: var(--font-famaly-main), sans-serif;
+    font-size: var(--font-size-l);
+    color: var(--font-color);
+
+    background-color: var(--bg-color);
+    border-radius: 10px;
+    border: none;
+    outline: 3px solid var(--red-color);
+
+    transition: all .2s ease-in-out;
+
+    &:hover {
+        color: var(--red-color);
+
+        //border-radius: 0 20px 0 20px;
+
+        transform: scale(1.01);
+    }
+}
+
+@media (max-width: 600px) {
+    .removeBtn {
+        min-width: 100px;
+    }
+}
+
+@media (max-width: 475px) {
+    .removeBtn {
+        font-size: var(--font-size-m);
+    }
+}

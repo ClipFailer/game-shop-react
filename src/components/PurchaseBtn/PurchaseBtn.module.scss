@@ -1,0 +1,56 @@
+.btn {
+    //min-width: 100px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+
+    padding: 5px 10px;
+
+
+    font-size: var(--font-size-m);
+    color: var(--font-color);
+
+    background-color: var(--bg-color);
+    border-radius: 10px;
+    border: none;
+
+    transition: all .2s ease-in-out;
+
+    &:hover {
+        color: var(--green-color);
+
+        //border-radius: 0 20px 0 20px;
+
+        transform: scale(1.01);
+    }
+}
+
+.price {
+    align-self: center;
+
+    padding: 5px 10px;
+
+    color: var(--font-color);
+
+    border-radius: 5px;
+    background-color: var(--green-color);
+
+    //outline: 2px solid var(--font-color);
+}
+
+.text {
+    font-family: var(--font-famaly-main), serif;
+    font-size: var(--font-size-l);
+}
+
+@media (max-width: 475px) {
+    .text {
+        font-size: var(--font-size-m);
+    }
+
+    .price {
+        font-size: 16px;
+    }
+}

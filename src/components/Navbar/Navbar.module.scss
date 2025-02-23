@@ -1,0 +1,83 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding: 5px;
+
+    font-size: 32px;
+    letter-spacing: 2px;
+
+    border: 3px solid var(--font-color);
+    border-radius: 10px 0 10px 0;
+
+    transition: all .2s ease-in-out;
+
+    &:hover {
+        border-radius: 0 10px 0 10px;
+        background-color: var(--font-color);
+        color: var(--bg-color);
+    }
+
+}
+
+.rightSide {
+    display: flex;
+    gap: 10px;
+
+    font-size: 32px;
+}
+
+.basket::after,
+.themeToggle::after {
+    opacity: 0%;
+
+    display: block;
+    position: absolute;
+    content: "";
+
+    bottom: 5px;
+    left: 0;
+    right: 0;
+
+    height: 1px;
+
+    background-color: var(--font-color);
+
+    transition: all .2s ease-in-out;
+}
+
+.basket {
+    display: flex;
+
+    position: relative;
+
+    color: var(--font-color);
+
+    &:hover {
+        &::after {
+            opacity: 100%;
+            bottom: 0;
+        }
+    }
+
+}
+
+.themeToggle {
+    position: relative;
+    
+    cursor: pointer;
+
+    &:hover {
+        &::after {
+            opacity: 100%;
+            bottom: 0;
+        }
+    }
+}
+
+.darkThemeIcon {
+    font-size: 28px;
+}
+
